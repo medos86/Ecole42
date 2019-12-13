@@ -1,0 +1,4 @@
+char* getHello()
+{
+	return "Hello";
+}
